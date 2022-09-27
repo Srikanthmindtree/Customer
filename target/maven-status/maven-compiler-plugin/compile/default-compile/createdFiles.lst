@@ -1,0 +1,4 @@
+com\example\demo\controller\CustomerController.class
+com\example\demo\entity\CustomerEntity.class
+com\example\demo\repository\CustomerRepository.class
+com\example\demo\Customer.class
